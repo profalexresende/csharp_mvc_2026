@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\alex\\PlaylistMusicasMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|c:\\alex\\playlistmusicasmvc\\playlistmusicasmvc\\views\\musica\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|solutionrelative:playlistmusicasmvc\\views\\musica\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|c:\\alex\\playlistmusicasmvc\\playlistmusicasmvc\\views\\musica\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|solutionrelative:playlistmusicasmvc\\views\\musica\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|c:\\alex\\playlistmusicasmvc\\playlistmusicasmvc\\views\\musica\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|solutionrelative:playlistmusicasmvc\\views\\musica\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|c:\\alex\\playlistmusicasmvc\\playlistmusicasmvc\\views\\musica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|solutionrelative:playlistmusicasmvc\\views\\musica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|c:\\alex\\playlistmusicasmvc\\playlistmusicasmvc\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|solutionrelative:playlistmusicasmvc\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|c:\\alex\\playlistmusicasmvc\\playlistmusicasmvc\\dados\\bancofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|solutionrelative:playlistmusicasmvc\\dados\\bancofake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|c:\\alex\\playlistmusicasmvc\\playlistmusicasmvc\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E71119-CB2B-4D1B-B528-621C2A5E4DC7}|PlaylistMusicasMVC\\PlaylistMusicasMVC.csproj|solutionrelative:playlistmusicasmvc\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Create.cshtml",
+              "RelativeDocumentMoniker": "PlaylistMusicasMVC\\Views\\Musica\\Create.cshtml",
+              "ToolTip": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Create.cshtml",
+              "RelativeToolTip": "PlaylistMusicasMVC\\Views\\Musica\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T00:35:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PlaylistMusicasMVC\\Views\\Musica\\Edit.cshtml",
+              "ToolTip": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Edit.cshtml",
+              "RelativeToolTip": "PlaylistMusicasMVC\\Views\\Musica\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T00:36:20.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PlaylistMusicasMVC\\Views\\Musica\\Delete.cshtml",
+              "ToolTip": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Delete.cshtml",
+              "RelativeToolTip": "PlaylistMusicasMVC\\Views\\Musica\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T00:36:42.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Index.cshtml",
+              "RelativeDocumentMoniker": "PlaylistMusicasMVC\\Views\\Musica\\Index.cshtml",
+              "ToolTip": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Views\\Musica\\Index.cshtml",
+              "RelativeToolTip": "PlaylistMusicasMVC\\Views\\Musica\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T00:35:24.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicaController.cs",
+              "DocumentMoniker": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Controllers\\MusicaController.cs",
+              "RelativeDocumentMoniker": "PlaylistMusicasMVC\\Controllers\\MusicaController.cs",
+              "ToolTip": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Controllers\\MusicaController.cs",
+              "RelativeToolTip": "PlaylistMusicasMVC\\Controllers\\MusicaController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwHsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T00:34:36.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BancoFake.cs",
+              "DocumentMoniker": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Dados\\BancoFake.cs",
+              "RelativeDocumentMoniker": "PlaylistMusicasMVC\\Dados\\BancoFake.cs",
+              "ToolTip": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Dados\\BancoFake.cs",
+              "RelativeToolTip": "PlaylistMusicasMVC\\Dados\\BancoFake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T00:33:59.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Models\\Musica.cs",
+              "RelativeDocumentMoniker": "PlaylistMusicasMVC\\Models\\Musica.cs",
+              "ToolTip": "C:\\alex\\PlaylistMusicasMVC\\PlaylistMusicasMVC\\Models\\Musica.cs",
+              "RelativeToolTip": "PlaylistMusicasMVC\\Models\\Musica.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T00:33:08.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

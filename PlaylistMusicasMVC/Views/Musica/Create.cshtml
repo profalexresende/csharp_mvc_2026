@@ -1,0 +1,27 @@
+﻿@model PlaylistMusicasMVC.Models.Musica
+
+<h2>Adicionar Música</h2>
+
+<form method="post">
+    <label>Título:</label>
+    <input asp-for="Titulo" />
+    <br />
+
+    <label>Artista:</label>
+    <input asp-for="Artista" />
+    <br />
+
+    <label>Gênero:</label>
+    <input asp-for="Genero" />
+    <br />
+
+    <label>Duração (minutos):</label>
+    <input asp-for="DuracaoMinutos" type="number" />
+    <br />
+
+    <label>Favorita:</label>
+    <input asp-for="Favorita" type="checkbox" />
+    <br />
+
+    <button type="submit">Salvar</button>
+</form>

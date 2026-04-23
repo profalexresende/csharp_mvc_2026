@@ -1,0 +1,41 @@
+﻿@model List<PlaylistMusicasMVC.Models.Musica>
+<!-- Define que a View recebe uma lista de músicas -->
+
+<h2>Minha Playlist</h2>
+
+<!-- Link para abrir o formulário de criação -->
+<a href="/Musica/Create">Adicionar Música</a>
+
+<table border="1">
+    <tr>
+        <th>Título</th>
+        <th>Artista</th>
+        <th>Gênero</th>
+        <th>Duração</th>
+        <th>Favorita</th>
+        <th>Ações</th>
+    </tr>
+
+    <!-- Percorre cada música da lista -->
+    @foreach (var m in Model)
+    {
+        <tr>
+            <!-- Exibe os dados da música -->
+            <td>@m.Titulo</td>
+            <td>@m.Artista</td>
+            <td>@m.Genero</td>
+
+            <!-- Exibe duração em minutos -->
+            <td>@m.DuracaoMinutos min</td>
+
+            <!-- Mostra estrela se for favorita -->
+            <td>@(m.Favorita ? "⭐" : "")</td>
+
+            <td>
+                <!-- Links para editar e excluir -->
+                <a href="/Musica/Edit/@m.Id">Editar</a> |
+                <a href="/Musica/Delete/@m.Id">Excluir</a>
+            </td>
+        </tr>
+    }
+</table>
