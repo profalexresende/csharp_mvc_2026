@@ -72,7 +72,7 @@ Ações principais:
 Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/playlist-musicas-mvc.git
+git clone https://github.com/profalexresende/csharp_mvc_2026.git
 ```
 
 Execute o projeto no Visual Studio (F5)
